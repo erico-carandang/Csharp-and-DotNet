@@ -1,0 +1,12 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\SharedLibrary.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\SharedLibrary.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\ref\SharedLibrary.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\SharedLibrary.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\ref\SharedLibrary.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\obj\Release\net5.0\SharedLibrary.pdb

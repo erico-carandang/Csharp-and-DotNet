@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.CS8.SharedLibrary</id>
+    <version>1.0.0</version>
+    <authors>Mark J Price</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>packt-cs8-sharedlibrary.png</icon>
+    <projectUrl>https://github.com/markjprice/cs8dotnetcore3</projectUrl>
+    <description>Three extension methods to validate a string value.</description>
+    <releaseNotes>Example shared library packaged for NuGet.</releaseNotes>
+    <copyright>Copyright © 2019 Packt Publishing Limited</copyright>
+    <tags>string extension packt cs8</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\SharedLibrary.dll" target="lib\net5.0\SharedLibrary.dll" />
+    <file src="E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\packt-cs8-sharedlibrary.png" target="packt-cs8-sharedlibrary.png" />
+  </files>
+</package>
