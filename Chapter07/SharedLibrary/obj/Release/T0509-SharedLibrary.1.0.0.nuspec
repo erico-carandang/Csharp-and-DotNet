@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>T0509-SharedLibrary</id>
+    <version>1.0.0</version>
+    <authors>ercarandang</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>packt-cs8-sharedlibrary.png</icon>
+    <projectUrl>https://github.com/erico-carandang/Csharp-and-DotNet</projectUrl>
+    <description>Sample package for NuGet for school training purposes.</description>
+    <releaseNotes>Example shared library packaged for NuGet.</releaseNotes>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\bin\Release\net5.0\SharedLibrary.dll" target="lib\net5.0\SharedLibrary.dll" />
+    <file src="E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\SharedLibrary\packt-cs8-sharedlibrary.png" target="packt-cs8-sharedlibrary.png" />
+  </files>
+</package>

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageId>T0509-SharedLibrary</PackageId>
+	<PackageVersion>1.0.0.0</PackageVersion>
+	<Authors>ercarandang</Authors>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/erico-carandang/Csharp-and-DotNet</PackageProjectUrl>
+	<PackageIcon>packt-cs8-sharedlibrary.png</PackageIcon>
+	<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	<PackageReleaseNotes>Example shared library packaged for NuGet.</PackageReleaseNotes>
+	<Description>Sample package for NuGet for school training purposes.</Description>
+	<Copyright></Copyright>
+	<PackageTags></PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<None Include="packt-cs8-sharedlibrary.png">
+		<Pack>True</Pack>
+		<PackagePath></PackagePath>
+	</None>
+  </ItemGroup>
+
+</Project>
