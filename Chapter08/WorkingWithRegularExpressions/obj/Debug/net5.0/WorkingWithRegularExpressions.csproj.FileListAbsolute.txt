@@ -1,0 +1,16 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.genruntimeconfig.cache

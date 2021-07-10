@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache

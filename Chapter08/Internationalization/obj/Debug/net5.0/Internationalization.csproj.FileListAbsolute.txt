@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\ref\Internationalization.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\bin\Debug\net5.0\Internationalization.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\ref\Internationalization.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\Internationalization\obj\Debug\net5.0\Internationalization.genruntimeconfig.cache

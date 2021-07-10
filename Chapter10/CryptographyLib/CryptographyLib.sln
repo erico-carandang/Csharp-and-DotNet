@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptographyLib", "CryptographyLib.csproj", "{A90F611D-59F2-4515-8BC4-7E6E658A7C61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptionApp", "..\EncryptionApp\EncryptionApp.csproj", "{8EEFB9C8-C860-4466-9CAB-5225FDA14100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingApp", "..\HashingApp\HashingApp.csproj", "{96E33835-5687-4E04-B6D5-9D31960110F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigningApp", "..\SigningApp\SigningApp.csproj", "{5389901A-895F-4505-8B89-09E2F6FA9DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizingApp", "..\RandomizingApp\RandomizingApp.csproj", "{4F0C877F-864D-42BA-A34B-3094FC905172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApp", "..\SecureApp\SecureApp.csproj", "{59A64690-D1E6-443E-9AA3-999EF620B349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90F611D-59F2-4515-8BC4-7E6E658A7C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90F611D-59F2-4515-8BC4-7E6E658A7C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90F611D-59F2-4515-8BC4-7E6E658A7C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90F611D-59F2-4515-8BC4-7E6E658A7C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEFB9C8-C860-4466-9CAB-5225FDA14100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEFB9C8-C860-4466-9CAB-5225FDA14100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEFB9C8-C860-4466-9CAB-5225FDA14100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEFB9C8-C860-4466-9CAB-5225FDA14100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E33835-5687-4E04-B6D5-9D31960110F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E33835-5687-4E04-B6D5-9D31960110F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E33835-5687-4E04-B6D5-9D31960110F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E33835-5687-4E04-B6D5-9D31960110F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5389901A-895F-4505-8B89-09E2F6FA9DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5389901A-895F-4505-8B89-09E2F6FA9DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5389901A-895F-4505-8B89-09E2F6FA9DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5389901A-895F-4505-8B89-09E2F6FA9DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0C877F-864D-42BA-A34B-3094FC905172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0C877F-864D-42BA-A34B-3094FC905172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0C877F-864D-42BA-A34B-3094FC905172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0C877F-864D-42BA-A34B-3094FC905172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A64690-D1E6-443E-9AA3-999EF620B349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A64690-D1E6-443E-9AA3-999EF620B349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A64690-D1E6-443E-9AA3-999EF620B349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A64690-D1E6-443E-9AA3-999EF620B349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C22158-1AAC-4D82-8CD5-871EC5630E71}
+	EndGlobalSection
+EndGlobal

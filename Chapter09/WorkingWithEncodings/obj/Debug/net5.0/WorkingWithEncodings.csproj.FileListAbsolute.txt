@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\ref\WorkingWithEncodings.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\ref\WorkingWithEncodings.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.genruntimeconfig.cache

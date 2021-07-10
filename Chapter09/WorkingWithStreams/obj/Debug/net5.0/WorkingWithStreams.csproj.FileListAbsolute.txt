@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\ref\WorkingWithStreams.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\ref\WorkingWithStreams.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.genruntimeconfig.cache

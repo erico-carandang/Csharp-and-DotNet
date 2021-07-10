@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\ref\WorkingWithNetworkResources.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\bin\Debug\net5.0\WorkingWithNetworkResources.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\ref\WorkingWithNetworkResources.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNetworkResources\obj\Debug\net5.0\WorkingWithNetworkResources.genruntimeconfig.cache

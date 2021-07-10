@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\ref\WorkingWithFileSystems.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\ref\WorkingWithFileSystems.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter09\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.AssemblyReference.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache

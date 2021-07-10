@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\ref\WorkingWithDictionaries.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\ref\WorkingWithDictionaries.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.genruntimeconfig.cache

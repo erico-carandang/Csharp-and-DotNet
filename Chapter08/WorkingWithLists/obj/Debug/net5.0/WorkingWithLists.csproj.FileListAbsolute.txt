@@ -1,0 +1,16 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\ref\WorkingWithLists.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.AssemblyReference.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\ref\WorkingWithLists.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.genruntimeconfig.cache

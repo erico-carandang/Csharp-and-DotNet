@@ -1,0 +1,15 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\ref\WorkingWithReflection.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\ref\WorkingWithReflection.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.genruntimeconfig.cache

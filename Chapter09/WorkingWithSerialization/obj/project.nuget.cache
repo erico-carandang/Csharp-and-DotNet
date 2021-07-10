@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksf+x24p9MVM8M9gOde4Jh2c+iCSbabP1oUbPcK+UxVpDS9/jU+UOIb6zyaUV4DMz29Y4tLiAeFKxjG+OIOlqQ==",
+  "success": true,
+  "projectFilePath": "E:\\FSD\\T0509 - .NET CORE 2.0\\Code-T0509\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edz3_\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

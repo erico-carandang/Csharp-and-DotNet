@@ -1,0 +1,16 @@
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.exe
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.deps.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.dev.json
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\ref\WorkingWithNumbers.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfo.cs
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\ref\WorkingWithNumbers.dll
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.pdb
+E:\FSD\T0509 - .NET CORE 2.0\Code-T0509\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.genruntimeconfig.cache
